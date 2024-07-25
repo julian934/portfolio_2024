@@ -176,17 +176,20 @@ export const navItems = [
     
   ];
   
-  export const socialMedia = [//replace wiht new images.
+  export const socialMedia = [//replace with new images.
     {
       id: 1,
       img: github,
+      link:'https://github.com/julian934/portfolio_2024'
     },
     {
       id: 2,
       img: linkedin,
+      link:'https://www.linkedin.com/in/julian-borner-709b91b7/'
     },
     {
       id: 3,
       img: instagram,
+      link:'https://www.instagram.com/jbthedev/'
     },
   ];
